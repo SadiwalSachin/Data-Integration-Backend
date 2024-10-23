@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Summer Sale",
+        "description": "Discounts on all products for the summer season",
+        "startDate": "2022-06-01T00:00:00.000Z",
+        "endDate": "2022-08-31T00:00:00.000Z",
+        "status": "running",
+        "budget": 10000,
+        "leads": [
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "name": "Back to School",
+        "description": "Special offers on school supplies and electronics",
+        "startDate": "2022-07-15T00:00:00.000Z",
+        "endDate": "2022-09-15T00:00:00.000Z",
+        "status": "draft",
+        "budget": 5000,
+        "leads": [
+            4,
+            5
+        ]
+    },
+    {
+        "name": "Black Friday",
+        "description": "Deep discounts on all products for Black Friday",
+        "startDate": "2022-11-25T00:00:00.000Z",
+        "endDate": "2022-11-27T00:00:00.000Z",
+        "status": "running",
+        "budget": 20000,
+        "leads": [
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "name": "Holiday Season",
+        "description": "Special offers and discounts for the holiday season",
+        "startDate": "2022-12-01T00:00:00.000Z",
+        "endDate": "2023-01-01T00:00:00.000Z",
+        "status": "completed",
+        "budget": 15000,
+        "leads": [
+            9,
+            10,
+            1
+        ]
+    },
+    {
+        "name": "Spring Clearance",
+        "description": "Clearance sale on all winter products",
+        "startDate": "2023-03-01T00:00:00.000Z",
+        "endDate": "2023-04-30T00:00:00.000Z",
+        "status": "canceled",
+        "budget": 8000,
+        "leads": [
+            2,
+            3
+        ]
+    },
+    {
+        "name": "Winter Deals",
+        "description": "Special deals on winter apparel and gear",
+        "startDate": "2023-12-01T00:00:00.000Z",
+        "endDate": "2023-12-31T00:00:00.000Z",
+        "status": "running",
+        "budget": 12000,
+        "leads": [
+            4,
+            5,
+            6
+        ]
+    },
+    {
+        "name": "Cyber Monday",
+        "description": "Biggest discounts on electronics and gadgets",
+        "startDate": "2023-11-27T00:00:00.000Z",
+        "endDate": "2023-11-28T00:00:00.000Z",
+        "status": "running",
+        "budget": 25000,
+        "leads": [
+            7,
+            8,
+            9
+        ]
+    },
+    {
+        "name": "New Year Offers",
+        "description": "Exclusive offers for the new year",
+        "startDate": "2024-01-01T00:00:00.000Z",
+        "endDate": "2024-01-31T00:00:00.000Z",
+        "status": "draft",
+        "budget": 10000,
+        "leads": [
+            10,
+            1,
+            2
+        ]
+    }
+]
