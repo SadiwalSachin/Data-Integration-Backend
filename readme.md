@@ -13,7 +13,7 @@ A backend service focusing on data integration and reporting. It simulates integ
 - **Node.js** (Express)
 - **MongoDB** (Mongoose)
 - **Express** for server creation
-- **Mongoose* ORM for mongoDB
+- **Mongoose** ORM for mongoDB
 - **Axios** for data fetching
 - **PDFKit** for generating PDF reports
 - **Nodemailer** for sending email notifications
@@ -63,4 +63,4 @@ The `createPdf.js` file defines the logic for generating PDF reports. The `creat
 
 1. Clone the repository:
 ```bash
-git clone 
+git clone https://github.com/SadiwalSachin/Data-Integration-Backend.git
